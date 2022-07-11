@@ -1,0 +1,117 @@
+===========================Manufacturer===========================:
+The value of a car's manufacturer can be one of the following:
+
+'Renault', 'BMW', 'Volkswagen', 'Peugeot', 'Ford', 'Nissan',
+'Honda', 'Toyota', 'Mercedes', 'Audi', 'Citroen', 'Skoda',
+'Land-Rover', 'Seat', 'Fiat', 'Mini', 'Saab', 'Hyundai', 'Kia',
+'Jaguar', 'Mazda', 'Suzuki', 'Volvo', 'Rover', 'Mitsubishi',
+'Smart', 'Porsche', 'Subaru', 'MG', 'Chrysler', 'Chevrolet',
+'Alfa-Romeo', 'Daihatsu', 'Bentley', 'Daewoo', 'Dacia', 'Dodge',
+'Lotus', 'Aston-Martin', 'Abarth', 'Ssangyong', 'Lexus',
+'Maserati', 'Opel', 'Ferrari', 'TVR', 'Triumph', 'Lada', 'Daimler',
+'Lancia', 'Datsun', 'Morris'
+ 
+===========================Model===========================:
+The value of a car's model can be one of the following:
+
+'Clio', '320i', 'Polo', '206', 'Mondeo', 'Micra', 'Civic', 'Ka+',
+'Megane', 'Yaris', 'CLA', 'A4', 'Passat', 'A3', '307', '207',
+'Xsara', 'Fabia', '118i', 'Freelander', 'C3', 'Corolla', '535i',
+'Avensis', 'E', 'Scenic', 'Ibiza', 'Range', 'Qashqai+2', 'Octavia',
+'500L', 'A', 'Almera', 'C4', 'C5', 'C6', 'Two', 'One', 'RAV4',
+'RAV5', '9-3X', '107', 'Aygo', 'I10', 'I11', 'A6', 'Picanto',
+'Note', 'Leon', 'XE', 'Fusion', 'Accord', 'MX-5', '6', 'C1',
+'Swift', 'Galaxy', '308', '3', 'TT', 'Laguna', '2', 'Panda',
+'Auris', '306', '106', 'V70', 'Saxo', 'Touran', 'Beetle', 'Rio',
+'C-MAX', 'X5', 'Juke', 'Vitara', 'Ceed', '406', 'Getz', 'X-Trail',
+'CLK', 'S40', '75', 'Berlingo', 'Alto', 'Primera', 'I20', 'SLK',
+'S-MAX', 'ML', 'Sportage', '407', 'C2', 'I30', 'XF', 'A1', 'Colt',
+'A5', 'S-Type', 'V50', 'Escort', 'XC90', 'V40', 'X3', 'Tiguan',
+'B', 'Fortwo', 'Bora', '45', '911', 'XJ', 'Impreza', '09-May',
+'Celica', 'Sharan', 'Santa', '208', 'S60', 'DS3', 'Modus', 'ZR',
+'Voyager', 'Sorento', 'Z4', '2000', 'Up', 'Jimny', 'Matiz',
+'Boxster', 'Wagon', '3008', '323', 'Puma', 'Stilo', 'Scirocco',
+'XK', 'Altea', 'C30', 'Accent', 'Lupo', 'Sprinter', 'Ix35',
+'Kangoo', '5', 'Jetta', 'Alhambra', 'Espace', 'Ignis', 'SX4',
+'Carens', 'Q5', 'Partner', 'Yeti', 'Touareg', 'Seicento', 'Superb',
+'Bravo', 'X1', 'Q7', '147', 'MR2', '740i', 'TF', 'S80', 'Fox',
+'Twingo', 'Lancer', 'Doblo', 'Eos', 'M3', 'PT', 'Matrix', 'IQ',
+'SLS', 'A2', 'Z3', 'C70', 'Roomster', 'Splash', 'Previa',
+'Starlet', 'Aveo', 'XC70', 'Tucson', 'Legacy', 'Cayenne', '156',
+'640i', 'Spark', 'Kalos', 'Outlander', 'Pixo', 'FR-V', 'Sirion',
+'Mini', 'Venga', 'Streetka', 'Felicia', 'Terrano', 'Space',
+'Carisma', 'Lacetti', 'ZT', 'CLC', 'Defender', 'Arosa', 'HR-V',
+'City-coupe', 'Terios', 'Carina', 'Multipla', 'A8', 'Citigo',
+'Liana', 'Continental', 'Captiva', 'Pathfinder', '205', '900',
+'B-MAX', '940', 'Toledo', 'Ix20', '850', 'Verso-S', 'S3', '159',
+'Lanos', 'C8', '626', 'Sandero', '807', '5008', 'Cayman', '300C',
+'300', 'Duster', '1007', '508', 'Xantia', 'RCZ', '350Z', 'Demio',
+'S2000', '190', 'Trajet', 'Tacuma', 'GT', 'Premacy', 'ZX', 'V60',
+'Brava', 'S4', 'X6', 'Caliber', 'Maverick', 'Streetwise',
+'CityRover', 'Cerato', 'Elise', 'Cougar', 'Roadster-coupe',
+'Vantage', 'I40', 'Cruze', 'Exeo', 'Urban', 'Mii', 'A7', '405',
+'500C', 'Transporter', 'Spider', 'DS4', 'Picnic', 'Viano',
+'Ulysse', 'Sierra', 'DB9', '80', 'Neon', 'Terracan', 'M550i',
+'Magentis', 'AX', 'RS4', 'Captur', 'Grandis', 'Crossfire', 'CR-Z',
+'R', 'Stream', 'Idea', 'Prelude', 'Elantra', '607', 'Rexton', 'CC',
+'Roadster', '806', '9000', 'S5', 'Nemo', 'Sonata', 'Capri',
+'Sedici', 'Brera', '944', 'Cordoba', 'C-Crosser', 'Cabriolet',
+'Cinquecento', 'Galant', 'Qubo', 'Lantra', 'Baleno', '440', 'GS',
+'2008', 'S70', 'GT86', 'Caddy', '4007', 'GLK', 'Camry', 'Nitro',
+'Sebring', 'Shuma', 'Veloster', 'Patrol', 'Expert', 'R8', 'Wind',
+'Rapid', 'DB7', 'Corrado', 'Supra', 'Marea', 'Serena', 'Vaneo',
+'Panamera', 'Copen', 'Logo', 'Paceman', '960', 'Tribute', 'M135i',
+'Shuttle', 'Trafic', 'Journey', 'Phaeton', 'Justy', 'Orlando',
+'Vito', 'Granada', 'Bipper', '370Z', 'RS6', 'John', 'Hilux',
+'Legend', 'MX-3', 'GranCabrio', 'Scorpio', 'Rodius', 'Mustang',
+'121', 'Coupe', 'Integra', 'Carrera', 'Croma', 'Zafira', 'GT-R',
+'DS5', 'Korando', '309', '100', 'Quattro', 'Probe', 'Focus',
+'Fiesta', 'Golf', 'Discovery', 'XKR', 'Pride', '19', 'Concerto',
+'Leganza', 'Bluebird', 'MPV', 'Xedos', 'Pajero', 'Orion', 'Vento',
+'Nexia', 'Mentor', '460', '166', 'Maxima', 'Paseo', 'F430', '850i',
+'Uno', 'Favorit', '146', 'MX-6', '145', 'Safrane', 'Move', '928',
+'Musso', 'Cooper', 'Tipo', 'Espero', 'XM', 'CRX', 'Tuscan', 'Vel',
+'21', 'Prairie', 'SJ', 'Esprit', 'Samurai', '360', 'Tempra', '155',
+'Barchetta', '90', 'TR7', 'Pony', '605', '25', '164', '11', '505',
+'Marbella', 'Acclaim', 'X-90', 'Samara', '305', 'Griffith', '9',
+'33', 'Manta', 'Applause', '4', '3.6', 'Delta', 'Silvia', 'Sunny',
+'126', 'Tercel', 'Niva', 'Stellar', '99', '120', 'Kadett', '18',
+'Dedra', 'Cherry', 'Marina', 'Laurel', 'Regata', '130', 'Thema',
+'Stanza', 'Ital', 'Strada', 'Santana', 'Double', '105', 'Malaga',
+'Ascona', 'Monza', 'Fuego', 'Derby', '104', 'Transit', 'Prisma',
+'Senator', '127', '200', 'Rekord', '929', 'Cressida', 'Quintet',
+'14', '20', '1200', '504'
+
+===========================Price===========================:
+The price of a car should be more than 0.0 and should not be larger than 650.0.
+
+===========================Transmission===========================:
+The transmission of a car should be more than 0.0 and should not be larger than 10.
+
+
+===========================Power===========================:
+Power (BHP) of the car, the power of a car should be more than 0.0 and should not be larger than 500.
+
+
+===========================Engine CC===========================:
+Engine size in CC, the engine CC of a car should be more than 0.0 and should not be larger than 6,500.
+
+
+===========================Fuel===========================:
+Type of fuel, the type of fuel that a car uses could be petrol, diesel, or automatic.
+
+
+===========================Male===========================:
+The number of male owners.
+
+
+===========================Female===========================:
+The number of female owners.
+
+
+===========================Unknown===========================:
+The number of owners who are gender unclassified.
+
+
+===========================Total===========================:
+The total number of owners, the summation of the number of male owners, female owners and owners who are gender unclassified.
